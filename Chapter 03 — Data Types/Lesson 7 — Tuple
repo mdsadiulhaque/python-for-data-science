@@ -1,0 +1,7 @@
+List-এর মতো।
+
+কিন্তু পরিবর্তন করা যায় না।
+
+colors = ("Red", "Green", "Blue")
+
+print(colors)
