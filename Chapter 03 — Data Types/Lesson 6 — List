@@ -1,0 +1,17 @@
+সবচেয়ে বেশি ব্যবহৃত Data Type।
+
+fruits = ["Apple", "Mango", "Banana"]
+
+print(fruits)
+
+Access
+
+print(fruits[0])
+
+Output
+
+Apple
+
+List পরিবর্তন করা যায়।
+
+fruits[0] = "Orange"
