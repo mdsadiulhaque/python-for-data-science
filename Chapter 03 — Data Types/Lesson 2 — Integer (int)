@@ -1,0 +1,12 @@
+পূর্ণ সংখ্যা।
+
+age = 24
+
+print(age)
+print(type(age))
+
+Negative Integer
+
+temperature = -10
+
+print(temperature)
