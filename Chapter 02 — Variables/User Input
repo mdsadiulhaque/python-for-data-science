@@ -1,0 +1,11 @@
+name = input("Enter your name: ")
+
+print("Hello", name)
+
+আরেকটি উদাহরণ:
+
+age = input("Enter your age: ")
+
+print(age)
+
+এখানে age-ও str হবে, কারণ input() সবসময় String দেয়।
