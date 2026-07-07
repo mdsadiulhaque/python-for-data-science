@@ -1,0 +1,17 @@
+Key এবং Value থাকে।
+
+student = {
+    "name":"Sadiul",
+    "age":24,
+    "country":"Bangladesh"
+}
+
+print(student)
+
+Access
+
+print(student["name"])
+
+Output
+
+Sadiul
