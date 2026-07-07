@@ -1,0 +1,5 @@
+কোনো Value নেই।
+
+result = None
+
+print(result)
