@@ -1,1 +1,34 @@
+Lesson 1: Introduction to Python
+Python কী?
 
+Python হলো একটি high-level, interpreted, general-purpose programming language।
+
+সহজ ভাষায়:
+
+মানুষের পড়তে সহজ
+শেখা সহজ
+শক্তিশালী
+অনেক বড় বড় কোম্পানি ব্যবহার করে
+
+Python দিয়ে করা যায়:
+
+✅ Data Science
+✅ Machine Learning
+✅ Artificial Intelligence
+✅ Web Development
+✅ Automation
+✅ Game Development
+✅ Cyber Security
+✅ Desktop Software
+Python কেন Data Science-এ এত জনপ্রিয়?
+
+কারণ Python-এর অসাধারণ Library Ecosystem রয়েছে।
+
+কাজ	Library
+Data Analysis	Pandas
+Numerical Computing	NumPy
+Visualization	Matplotlib, Plotly
+Machine Learning	Scikit-learn
+Deep Learning	PyTorch, TensorFlow
+NLP	spaCy, Transformers
+Computer Vision	OpenCV
