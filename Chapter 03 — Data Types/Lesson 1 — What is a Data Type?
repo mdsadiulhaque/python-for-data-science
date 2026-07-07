@@ -1,0 +1,19 @@
+Data Type হলো কোনো Variable-এ কী ধরনের Data রাখা হয়েছে তা বোঝায়।
+
+উদাহরণ:
+
+age = 24
+
+এখানে
+
+Variable → age
+Value → 24
+Data Type → Integer (int)
+Type দেখার উপায়
+name = "Sadiul"
+
+print(type(name))
+
+Output
+
+<class 'str'>
