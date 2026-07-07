@@ -1,0 +1,15 @@
+এক লাইনে একাধিক Variable:
+
+x, y, z = 10, 20, 30
+
+print(x)
+print(y)
+print(z)
+
+একই Value:
+
+a = b = c = 100
+
+print(a)
+print(b)
+print(c)
