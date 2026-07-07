@@ -1,0 +1,15 @@
+Duplicate রাখে না।
+
+numbers = {1,2,3,4,5}
+
+print(numbers)
+
+Duplicate
+
+numbers = {1,1,2,2,3,3}
+
+print(numbers)
+
+Output
+
+{1,2,3}
