@@ -1,0 +1,27 @@
+Python চালানোর কয়েকটি উপায় আছে।
+
+Method 1
+
+Command Prompt
+
+python
+Method 2
+
+VS Code
+
+New File
+
+hello.py
+
+Run
+
+Method 3
+
+Jupyter Notebook
+
+print("Hello World")
+Method 4
+
+Google Colab
+
+Cloud-এ Python চালানো যায়।
