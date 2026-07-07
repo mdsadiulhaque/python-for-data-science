@@ -1,0 +1,28 @@
+Comment হচ্ছে এমন লেখা যা Python Execute করে না।
+
+Single Line
+
+# This is a comment
+
+print("Hello")
+
+Output
+
+Hello
+
+Multi-line
+
+"""
+This
+is
+a comment
+"""
+
+Documentation Style
+
+def add(a, b):
+    """
+    This function returns
+    the sum of two numbers.
+    """
+    return a + b
