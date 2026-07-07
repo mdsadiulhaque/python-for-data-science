@@ -1,0 +1,22 @@
+Type Conversion
+age = "24"
+
+print(type(age))
+
+Convert
+
+age = int(age)
+
+print(type(age))
+
+Float
+
+price = "250.50"
+
+price = float(price)
+
+String
+
+number = 100
+
+text = str(number)
