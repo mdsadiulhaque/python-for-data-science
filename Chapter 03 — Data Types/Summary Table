@@ -1,0 +1,11 @@
+| Data Type | Example             | Mutable |
+| --------- | ------------------- | ------- |
+| int       | `10`                | ❌       |
+| float     | `3.14`              | ❌       |
+| str       | `"Python"`          | ❌       |
+| bool      | `True`              | ❌       |
+| list      | `[1,2,3]`           | ✅       |
+| tuple     | `(1,2,3)`           | ❌       |
+| set       | `{1,2,3}`           | ✅       |
+| dict      | `{"name":"Sadiul"}` | ✅       |
+| None      | `None`              | ❌       |
