@@ -1,1 +1,37 @@
+Variable কী?
 
+Variable হলো একটি নাম, যেখানে আমরা কোনো মান (Value) সংরক্ষণ করি।
+
+উদাহরণ:
+
+name = "Sadiul"
+
+এখানে:
+
+name → Variable
+"Sadiul" → Value
+= → Assignment Operator
+উদাহরণ ১
+name = "Md Sadiul Haque"
+
+print(name)
+
+Output
+
+Md Sadiul Haque
+উদাহরণ ২
+age = 24
+
+print(age)
+
+Output
+
+24
+একাধিক Variable
+name = "Sadiul"
+age = 24
+country = "Bangladesh"
+
+print(name)
+print(age)
+print(country)
