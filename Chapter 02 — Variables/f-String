@@ -1,0 +1,20 @@
+f-String (খুব গুরুত্বপূর্ণ)
+
+আগে:
+
+name = "Sadiul"
+
+print("Hello", name)
+
+আধুনিক ও পরিষ্কার পদ্ধতি:
+
+name = "Sadiul"
+
+print(f"Hello {name}")
+
+আরও উদাহরণ:
+
+name = "Sadiul"
+age = 24
+
+print(f"My name is {name} and I am {age} years old.")
