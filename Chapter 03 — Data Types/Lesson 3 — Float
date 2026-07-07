@@ -1,0 +1,6 @@
+দশমিক সংখ্যা।
+
+price = 250.50
+
+print(price)
+print(type(price))
