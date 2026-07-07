@@ -1,0 +1,18 @@
+শুধু দুইটি Value থাকে।
+
+True
+False
+
+Example
+
+is_student = True
+
+print(is_student)
+
+Comparison
+
+print(10 > 5)
+
+Output
+
+True
