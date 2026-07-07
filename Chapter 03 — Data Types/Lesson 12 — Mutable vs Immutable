@@ -1,0 +1,22 @@
+Mutable
+
+পরিবর্তন করা যায়।
+
+List
+Dictionary
+Set
+
+Example
+
+numbers = [1,2,3]
+
+numbers.append(4)
+Immutable
+
+পরিবর্তন করা যায় না।
+
+int
+float
+str
+tuple
+bool
