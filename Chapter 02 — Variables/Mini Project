@@ -1,0 +1,33 @@
+Mini Project
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+country = input("Enter your country: ")
+
+print("\n----- Profile -----")
+print(f"Name    : {name}")
+print(f"Age     : {age}")
+print(f"Country : {country}")
+
+#Practice
+Practice 1
+city = "Dhaka"
+
+print(city)
+Practice 2
+a = 10
+b = 20
+
+print(a + b)
+
+Practice 3
+name = input("Enter your name: ")
+
+print(f"Welcome {name}")
+
+Practice 4
+length = float(input("Length: "))
+width = float(input("Width: "))
+
+area = length * width
+
+print(f"Area = {area}")
