@@ -83,32 +83,36 @@ python-for-data-science/
 # 🗺️ Learning Roadmap
 
 ## Chapter 01 — Python Basics
-
-- Introduction
-- Installation
-- Running Python
-- Comments
+├── 01_hello_world.py
+├── 02_print_examples.py
+├── 03_comments.py
 
 ---
 
 ## Chapter 02 — Variables
-
-- Variables
-- Naming Rules
-- Multiple Assignment
+│
+├── 01_variables
+├── 02_variable_rules
+├── 03_multiple_assignment
+├── 04_input_output
+├── 05_type_casting
+├── 06_f_string
+├── 07_profile_project
 
 ---
 
 ## Chapter 03 — Data Types
-
-- Integer
-- Float
-- String
-- Boolean
-- List
-- Tuple
-- Dictionary
-- Set
+│
+├── 01_int_float
+├── 02_string
+├── 03_boolean
+├── 04_list
+├── 05_tuple
+├── 06_set
+├── 07_dictionary
+├── 08_none
+├── 09_type_conversion
+├── 10_mutable_vs_immutable
 
 ---
 
