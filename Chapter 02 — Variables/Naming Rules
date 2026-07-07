@@ -1,0 +1,18 @@
+Variable Naming Rules
+✅ সঠিক নাম
+student_name = "Rahim"
+studentAge = 20
+total_marks = 500
+price1 = 100
+
+❌ ভুল নাম
+1name = "Rahim"      # সংখ্যা দিয়ে শুরু করা যাবে না
+student-name = "Rahim"  # '-' ব্যবহার করা যাবে না
+class = "CSE"        # Reserved keyword
+Best Practice (PEP 8)
+
+Python-এ snake_case ব্যবহার করা হয়।
+
+first_name = "Md"
+last_name = "Haque"
+total_salary = 50000
