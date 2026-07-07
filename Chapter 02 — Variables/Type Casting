@@ -1,0 +1,17 @@
+age = int(input("Enter your age: "))
+
+print(age)
+
+Float
+
+price = float(input("Enter price: "))
+
+print(price)
+
+String
+
+number = 100
+
+text = str(number)
+
+print(text)
