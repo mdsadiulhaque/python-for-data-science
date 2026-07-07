@@ -1,0 +1,21 @@
+Text সংরক্ষণ করে।
+
+name = "Md Sadiul Haque"
+
+print(name)
+print(type(name))
+
+Single Quote
+
+city = 'Dhaka'
+
+Double Quote
+
+country = "Bangladesh"
+
+Triple Quote
+
+bio = """
+I love Python.
+I love Data Science.
+"""
