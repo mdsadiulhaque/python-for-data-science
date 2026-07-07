@@ -1,0 +1,27 @@
+print("Hello, Data Science!")
+
+Output
+
+Hello, Data Science!
+
+আরও কিছু উদাহরণ
+
+print("Welcome to Python")
+print("My name is Md Sadiul Haque")
+print("I want to become a Data Scientist")
+Practice
+
+নিচের Program নিজে লেখো।
+
+Practice 1
+print("Hello World")
+Practice 2
+print("I love Python")
+Practice 3
+print("Data Science")
+print("Machine Learning")
+print("Artificial Intelligence")
+Practice 4
+# This is my first Python program
+
+print("Welcome")
